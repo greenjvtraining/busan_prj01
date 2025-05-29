@@ -1,2 +1,4 @@
 -My Homepage
 1. 레이아웃 설정
+2. header 작성
+3. footer 작성
